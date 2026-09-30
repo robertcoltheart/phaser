@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Targets.Sdk\Targets.Sdk.csproj" />
+    <ProjectReference Include="..\..\src\Phaser\Phaser.csproj" />
   </ItemGroup>
 
 </Project>

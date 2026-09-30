@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Phaser/Phaser.csproj" />
+  <Project Path="tests/Phaser.Tests/Phaser.Tests.csproj" />
+</Solution>

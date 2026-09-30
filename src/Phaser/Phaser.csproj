@@ -14,10 +14,10 @@
     <Authors>Robert Coltheart</Authors>
     <Description>A simple build targeting framework</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/robertcoltheart/targets-sdk</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/robertcoltheart/targets-sdk</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/robertcoltheart/phaser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/robertcoltheart/phaser</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>targets build sdk</PackageTags>
+    <PackageTags>targets build</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 

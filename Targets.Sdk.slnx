@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="src/Targets.Sdk/Targets.Sdk.csproj" />
-  <Project Path="tests/Targets.Sdk.Tests/Targets.Sdk.Tests.csproj" />
-</Solution>
