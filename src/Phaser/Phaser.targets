@@ -1,0 +1,9 @@
+<Project>
+
+  <ItemGroup>
+    <Using Include="Phaser" />
+    <Using Include="Phaser.Targets" Static="true" />
+    <Using Include="Phaser.Runners" Static="true" />
+  </ItemGroup>
+
+</Project>

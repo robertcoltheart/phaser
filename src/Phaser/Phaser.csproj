@@ -6,8 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <DevelopmentDependency>true</DevelopmentDependency>
-    <PackageType>MSBuildSdk</PackageType>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -23,6 +21,11 @@
 
   <ItemGroup>
     <None Include="../../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Phaser.props" PackagePath="buildTransitive/$(TargetFramework)" Pack="true" Visible="false" />
+    <None Include="Phaser.targets" PackagePath="buildTransitive/$(TargetFramework)" Pack="true" Visible="false" />
   </ItemGroup>
 
 </Project>
